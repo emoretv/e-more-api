@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Ginger",
+    "artist": "Wizkid, Burna Boy",
+    "thumbnail": "https://via.placeholder.com/300",
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": "2",
+    "title": "Spotlight",
+    "artist": "Ayra Starr, Rema",
+    "thumbnail": "https://via.placeholder.com/300",
+    "url": "https://www.w3schools.com/html/movie.mp4"
+  },
+  {
+    "id": "3",
+    "title": "Party Playlist",
+    "artist": "Davido, Tems",
+    "thumbnail": "https://via.placeholder.com/300",
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+  }
+]
